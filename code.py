@@ -61,4 +61,4 @@ for row in call_logs:
 # If the Call Duration is above 1 min then it will be charged at 
 # 30paise/min
 total_income = (83 * 30) / 60
-print('Total Income for the day :', total_income)
+print('Total Income for the day : ₹', total_income)
